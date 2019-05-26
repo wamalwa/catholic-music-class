@@ -55,3 +55,7 @@ p {
 footer.page-footer {
   margin: 0;
 }
+.custom-shadow {
+	font-size:4em;
+	text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+}
