@@ -1,6 +1,6 @@
 <?php
-
-$m = new MongoClient(); // connect
-$db = $m->selectDB("example");
+echo phpinfo();
+//$m = new MongoClient(); // connect
+//$db = $m->selectDB("example");
 
 ?>
